@@ -1,4 +1,4 @@
-# HW6-HMM
+# HW6-HMM [![project6](https://github.com/zackmawaldi/HW6-HMM/actions/workflows/test.yml/badge.svg)](https://github.com/zackmawaldi/HW6-HMM/actions/workflows/test.yml)
 
 This package implements the Forward and Viterbi Algorithms (dynamic programming) of Hidden Markov Models (HMMs). 
 
